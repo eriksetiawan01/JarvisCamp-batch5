@@ -1,0 +1,11 @@
+img {
+    width: 500px;
+    border-radius: 5px;
+}
+#konten-atas {
+    display: block;
+    margin: auto;
+    background-color: aqua;
+    width: fit-content;
+    padding: 10px;
+}
