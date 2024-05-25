@@ -1,5 +1,4 @@
 <?php
-// tugas.php
 
 // Definisi class Kendaraan
 class Kendaraan {
